@@ -1,0 +1,36 @@
+{
+  "name": "react-sandbox",
+  "version": "1.0.0",
+  "description": "This is a react Sandbox for learning",
+  "keywords": [
+    "react",
+    "learning"
+  ],
+  "homepage": "https://github.com/Subhashini-0310/react-learning#readme",
+  "bugs": {
+    "url": "https://github.com/Subhashini-0310/react-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhashini-0310/react-learning.git"
+  },
+  "license": "ISC",
+  "author": "Subhashini Sahu",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 2 chrome versions",
+    "last 2 firefox versions"
+  ]
+}
