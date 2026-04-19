@@ -1,4 +1,5 @@
 import { CDN_URL } from "../../utils/constants";
+import "./index.css";
 
 const RestaurantCard = ({ resInfo }) => {
   const { name, cuisines, avgRating, sla } = resInfo;

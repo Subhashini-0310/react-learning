@@ -3,9 +3,13 @@
     flex-wrap: wrap;
 }
 .search {
-    padding: 10px;
+    padding: 5px;
     margin: 10px;
 }
 .filter-button {
+    padding: 5px;
     margin: 10px;
+}
+.filter {
+    display: flex;
 }
